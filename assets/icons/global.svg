@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="global" transform="translate(0.5 0.5)">
+    <g id="global-2" data-name="global">
+      <g id="global-3" data-name="global">
+        <path id="Vector" d="M9.167,18.333a9.167,9.167,0,1,1,9.167-9.167A9.167,9.167,0,0,1,9.167,18.333Z" transform="translate(1.833 1.833)" fill="none" stroke="#4a46a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <g id="Group_722" data-name="Group 722" transform="translate(2.75 2.75)" opacity="0.4">
+          <path id="Vector-2" data-name="Vector" d="M.424,0h.917a26.055,26.055,0,0,0,0,16.5H.424" transform="translate(4.159)" fill="none" stroke="#4a46a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0A26.055,26.055,0,0,1,0,16.5" transform="translate(11)" fill="none" stroke="#4a46a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+          <path id="Vector-4" data-name="Vector" d="M0,.917V0A26.055,26.055,0,0,0,16.5,0V.917" transform="translate(0 11)" fill="none" stroke="#4a46a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+          <path id="Vector-5" data-name="Vector" d="M0,1.341a26.055,26.055,0,0,1,16.5,0" transform="translate(0 4.159)" fill="none" stroke="#4a46a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        </g>
+        <path id="Vector-6" data-name="Vector" d="M22,0V22H0V0Z" transform="translate(22 22) rotate(180)" fill="none" stroke="#4a46a3" stroke-width="1" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
